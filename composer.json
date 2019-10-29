@@ -1,13 +1,17 @@
 {
-  "name": "bratucornel/magento-2-romanian-language-pack",
+  "name": "webraptor/magento-2-romanian-language-pack",
   "description": "Romanian language package for Magento 2",
   "type": "magento2-language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
   ],
   "authors": [
+    {
+      "name": "Bogdan Pop",
+      "email": "contact@webraptor.eu"
+    },
     {
       "name": "Cornel Bratu",
       "email": "bratucornel@gmail.com"
