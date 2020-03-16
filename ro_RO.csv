@@ -239,6 +239,7 @@
 2nd Day Air AM Letter,Scrisoare A doua zi dimineata,module,Magento_Ups
 2nd Day Air Letter,Scrisoare A doua zi dimineata,module,Magento_Ups
 2YTD,Ultimii 2 ani,module,Magento_Backend
+Menu,Meniu,module,Magento_Theme		
 3 columns,3 coloane,module,Magento_Theme
 3 Day Freight,Transport 3 zile,module,Magento_Fedex
 3 Day Select,Selectare 3 zile,module,Magento_Ups
